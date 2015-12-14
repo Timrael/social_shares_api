@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 gem 'rack'
-gem 'social_shares', '~> 0.1.0'
+gem 'social_shares', '~> 0.2.7'
